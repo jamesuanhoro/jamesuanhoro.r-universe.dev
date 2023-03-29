@@ -1,6 +1,7 @@
 [
     {
         "package": "minorbsem",
-        "url": "https://github.com/jamesuanhoro/minorbsem"
+        "url": "https://github.com/jamesuanhoro/minorbsem",
+        "branch": "rstan_new"
     }
 ]
