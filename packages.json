@@ -2,5 +2,9 @@
     {
         "package": "ugcflss",
         "url": "https://github.com/jamesuanhoro/ugcflss"
+    },
+    {
+        "package": "ssrhom",
+        "url": "https://github.com/jamesuanhoro/ssrhom"
     }
 ]
