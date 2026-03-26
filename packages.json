@@ -6,5 +6,9 @@
     {
         "package": "ssrhom",
         "url": "https://github.com/jamesuanhoro/ssrhom"
+    },
+    {
+        "package": "rccme",
+        "url": "https://github.com/jamesuanhoro/rccme"
     }
 ]
